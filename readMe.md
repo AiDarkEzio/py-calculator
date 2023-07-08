@@ -1,8 +1,9 @@
-#PY-Calculator
+# PY-Calculator
 
-###V1
+### V1
 ![V1 Image](https://github.com/AiDarkEzio/py-calculator/blob/main/Screenshot%20(46).png?raw=true)
-###V2
+
+### V2
 ![V2 Image](https://github.com/AiDarkEzio/py-calculator/blob/main/Screenshot%20(45).png?raw=true)
 
 - Introducing our feature-rich calculator application designed to make your mathematical calculations a breeze. With an intuitive graphical user interface (GUI), beautiful color schemes, a history section, and round borders, this calculator offers a delightful user experience while maintaining functionality.
